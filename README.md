@@ -6,7 +6,7 @@ This is an API aimed at retrieving data from blockchain quickly and conveniently
 - Mainnet
   - [https://api.mdmcoin.com/v0/](https://api.wavesplatform.com/v0/)
 - Testnet
-  - [https://apitestnet.mdmcoin.comv0/](https://apitestnet.mdmcoin.com/v0/)
+  - [https://apitestnet.mdmcoin.com/v0/](https://apitestnet.mdmcoin.com/v0/)
 
 Visit `/docs` for Swagger documentation.
 
