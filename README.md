@@ -60,6 +60,11 @@ If you would like to use some other way of setting environment variables, just r
    ```bash
    export $(cat variables.env | xargs) && NODE_ENV=production node dist/index.js
    ```
+ or use SCREEN
+ 
+ ```bash
+screen -d -m -S MDM-data-service  cd /mdm-data-service && export $(cat /mdm-data-service/variables.env | xargs) && NODE_ENV=production node /mdm-data-service/dist/index.js
+ ```
 
 Server will start at `localhost:PORT` (defaults to 3000). Logs will be directed to stdout.
 
