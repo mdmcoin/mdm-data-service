@@ -4,7 +4,7 @@
 
 This is an API aimed at retrieving data from blockchain quickly and conveniently. We  support public APIs for:
 - Mainnet
-  - [https://apidata.mdmcoin.net/](https://apidata.wavesplatform.com/)
+  - [https://apidata.mdmcoin.net/](https://apidata.mdmcoin.net/)
 - Testnet
   - [https://apidatatest.mdmcoin.net/](https://apidatatest.mdmcoin.net/)
 
